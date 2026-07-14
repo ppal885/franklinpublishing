@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://dita-franklin-worker.adobeaem.workers.dev/ppal885/franklinpublishing/main/docs
+    url: https://guides.adobe.com/eds-workers/ppal885/franklinpublishing/main/docs   
     type: markup
 
